@@ -5,5 +5,9 @@ import (
 )
 
 func main() {
-    fmt.Println("Hello World!")
+	var t bool = true
+	var f bool
+
+	fmt.Println(t)
+	fmt.Println(f)
 }
